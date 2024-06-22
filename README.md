@@ -1,0 +1,1 @@
+This repository contains a collection of Bash scripts designed to perform various tasks on Ubuntu 20.04 LTS. Each script is contained within its own file and is designed to be simple and straightforward.
